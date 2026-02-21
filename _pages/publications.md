@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Publications & Preprints"
 permalink: /publications/
 layout: archive
 ---
