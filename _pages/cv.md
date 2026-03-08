@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "Brief Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,9 +16,9 @@ Education
   * Supervisor: Cyril Labbé.
   * Referees: Anne de Bouard, Giuseppe Cannizzaro.
   * Jury: Anne de Bouard, Giuseppe Cannizzaro, Cyril Labbé, Mathieu Lewin, Lorenzo Zambotti
-* M.S. in *Probability and Random Models*, Sorbonne Université, 2020, with high honours
+* M.Sc in *Probability and Random Models*, Sorbonne Université, Paris, 2020, with high honours
   * Master thesis: On the Continuous Parabolic Anderson Model supervised by Cyril Labbé.
-* B.Sc (Double degree), Electrical Engineering / Mathematics, National Taiwan University, Taipei
+* B.Sc (Double degree), *Electrical Engineering* / *Mathematics*, National Taiwan University, Taipei
 
 Employment
 ======
