@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,28 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in *Mathematics*, CEREMADE, Université Paris Dauphine - PSL, Paris, 2024
+  * Thesis: *On the Random Schrödinger Operators in the Continuous Setting*
+  * Supervisor: Cyril Labbé.
+  * Referees: Anne de Bouard, Giuseppe Cannizzaro.
+  * Jury: Anne de Bouard, Giuseppe Cannizzaro, Cyril Labbé, Mathieu Lewin, Lorenzo Zambotti
+* M.S. in *Probability and Random Models*, Sorbonne Université, 2020, with high honours
+  * Master thesis: On the Continuous Parabolic Anderson Model supervised by Cyril Labbé.
+* B.Sc (Double degree), Electrical Engineering / Mathematics, National Taiwan University, Taipei
 
-Work experience
+Employment
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* From October 2024: Postdoctoral fellow
+  * Institut für Analysis und Scientific Computing, Technische Universität Wien, Vienna
+  * Supervisor: Máté Gerencsér
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020-2024: Doctorant contractuel / Attaché temporaire d’enseignement et de recherche (ATER)
+  * Université Paris Dauphine - PSL, Paris
+  * Supervisor: Cyril Labbé
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+PDF version
+======
+You can find a PDF copy of my CV here:
+* [EN (Last update: 27 Feb, 2025)](/files/CV_en.pdf)
+* [FR (Denière Mise-à-jour : 3 Dec, 2024)](/files/CV_fr.pdf)
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -61,4 +65,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
