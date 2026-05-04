@@ -23,7 +23,7 @@ repository               : "kelvinhsu/kelvinhsu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_20260504.jpg"
   name             : "Yueh-Sheng Hsu"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc in probability / stochastic analysis / SPDEs"
