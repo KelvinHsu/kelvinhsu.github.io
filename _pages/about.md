@@ -20,7 +20,10 @@ Prior to my doctoral studies, I was a student in the master's programme *Probabi
 - (Add 1–2 bullets that feel “you”) -->
 
 ## News
-- *Apr 2026:* I will present at the Workshop [*From discrete systems to SPDEs*](https://sites.google.com/view/viennaspdes2026/home) taking place at TU Wien during 30 March - 1st April.
+- *Nov 2026:* I gave a talk *On the variance blow-up phenomenon of singular SPDEs* at the Vienna Probability Seminar, ISTA, on 2 November.
+- *Oct 2026:* My paper [Landau Hamiltonian with Gaussian white noise potential and the asymptotic of its bottom of spectrum](https://arxiv.org/abs/2511.22162) has been accepted for publication in the *Electronic Journal of Probability*.
+- *Sep 2026:* New preprint (with Máté Gerencsér and Rhys Steele): [The sharp rate of probabilistically strong convergence to the KPZ equation](https://arxiv.org/abs/2609.02755).
+- *Apr 2026:* I presented at the Workshop [*From discrete systems to SPDEs*](https://sites.google.com/view/viennaspdes2026/home), which took place at TU Wien during 30 March - 1st April.
 - *Feb 2026:* New preprint: [Variance renormalisation in regularity structures -- the case of $$2d$$ gPAM](https://arxiv.org/abs/2602.17369).
 - *Nov 2025:* New preprint: [Landau Hamiltonian with Gaussian white noise potential and the asymptotic of its bottom of spectrum](https://arxiv.org/abs/2511.22162).
 
@@ -29,5 +32,5 @@ Prior to my doctoral studies, I was a student in the master's programme *Probabi
 TU Wien – Campus Freihaus  
 Wiedner Hauptstraße 8–10, 1040 Wien  
 
-**Office:** DA04E02  
+**Office:** DA03A09  
 **E-Mail:** yueh-sheng \[DOT\] hsu \[AT\] asc.tuwien.ac.at
